@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Clodious</title>
 </head>
 <body>
 
@@ -29,8 +29,6 @@ Don't make me play pretend
 Oh no, oh what's the use
 Oh please, I bet everybody here is fake happy too.
 </p>
-
-<img src="img_girl.jpg" alt="Girl in a jacket">
 
 </body>
 </html>
